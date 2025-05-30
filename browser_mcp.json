@@ -1,0 +1,19 @@
+{
+    "mcpServers": {
+      "playwright": {
+        "command": "npx",
+        "args": ["@playwright/mcp@latest"],
+        "env": {
+          "DISPLAY": ":1"
+        }
+      },
+      "google-search": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@mcp-server/google-search-mcp@latest"
+        ]
+      }
+
+    }
+  }
