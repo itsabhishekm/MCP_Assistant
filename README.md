@@ -6,7 +6,7 @@ This is an MCP based AI Assistant built using [Groq](https://groq.com/), [LangCh
 
 ## Features
 
-- Groq LLM with LangChain and memory-enabled conversation
+- Groq LLM with LangChain and memory enabled conversation
 - MCP server such as Google Search and Playwright integration
 - FastAPI backend to handle chat API requests
 - Streamlit frontend for real-time chat
